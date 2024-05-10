@@ -1,16 +1,16 @@
 <h1 align="center">Oi👋, Eu sou o Douglas Jordão Moreira</h1>
 <h3 align="center">Motivado por tecnologia e análise de dados.</h3>
 
-- 🔭 trabalhando atualmente no projeto **Banco de dados em SQL**
+- 🔭 Trabalhando atualmente no projeto **Banco de dados em SQL**
 
 - 🌱 Atualmente estudando **Ciência da computação - Universidade Veiga de Almeida**
 
 - 🤝 Estou procurando trabalhar com **análise de dados**
 
 - 📫 Contatos:
-- e-mail: moreiradouglas552@gmail.com
-- Celular: +55 021 993549276
-- LinkedIn: https://www.linkedin.com/in/douglas-moreira-508a21231/
+- e-mail: **moreiradouglas552@gmail.com**
+- Celular: **+55 021 993549276**
+- LinkedIn: **https://www.linkedin.com/in/douglas-moreira-508a21231/**
 
 - 📄 Experiências: [Jovem Aprendiz - Froneri Brasil Distribuidora Sorvetes e Congelados Ltda.](Jovem Aprendiz - Froneri Brasil Distribuidora Sorvetes e Congelados Ltda.)
 
